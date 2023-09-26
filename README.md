@@ -63,4 +63,6 @@
     3 0 2 1 2 a 1
 ```
 
+#### More examples:
+> More inputs are given in /Public tests/P1/in with correct outputs in /Public tests/P1/out
 
